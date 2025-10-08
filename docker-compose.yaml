@@ -1,7 +1,7 @@
 
 services:
   mihomo:
-    image: izumiko/mihomo
+    image: metacubex/mihomo:latest
     container_name: mihomo
     restart: unless-stopped
     ports:
