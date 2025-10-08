@@ -8,7 +8,7 @@
 
   1. #### 无自定义规则需求
 
-     1. 下载一键配置文件，开启命令窗口下载配置到本地：
+     1. 下载一键配置文件，开启命令窗口下载配置到本地，config.yaml为docker配置，clash为软路由设置。区别在于一个开放9090的API接口，一个没开放：
 
         ```
         curl https://raw.githubusercontent.com/chen7011/rules-template/refs/heads/main/clash.yaml > config.yaml
