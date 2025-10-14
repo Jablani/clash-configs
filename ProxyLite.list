@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,googel.com
 DOMAIN,api.themoviedb.org
 =======
 
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,eufylife.com
+DST-PORT,32100
+DOMAIN-SUFFIX,eurybia.us
+
 DOMAIN-SUFFIX,googel.com
 
 
@@ -73,3 +79,4 @@ DOMAIN-SUFFIX,ptskit.org
 
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
+
