@@ -52,7 +52,7 @@ profile:
 # 跑裸核朋友自行删除注释即可
 external-controller: 0.0.0.0:9090
 #面板密码
-secret: "123456"
+secret: ""
 #external-ui: "/etc/mihomo/ui"
 #external-ui-name: zashboard
 #external-ui-url: "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
