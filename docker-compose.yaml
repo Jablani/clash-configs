@@ -17,4 +17,4 @@ services:
     container_name: zashboard
     restart: unless-stopped
     ports:
-      - "3001:80"
+      - "9000:80"
