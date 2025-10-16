@@ -1,1 +1,91 @@
+# 日本网站规则集，所有需要走日本代理的域名都放在这里
 
+====
+# 自定义域名放在这里
+DOMAIN-SUFFIX,kakaku.com
+
+
+# 域名后缀匹配（日本顶级域名）
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,co.jp
+DOMAIN-SUFFIX,ne.jp
+DOMAIN-SUFFIX,or.jp
+DOMAIN-SUFFIX,ac.jp
+DOMAIN-SUFFIX,go.jp
+DOMAIN-SUFFIX,lg.jp
+DOMAIN-SUFFIX,ed.jp
+DOMAIN-SUFFIX,gr.jp
+DOMAIN-SUFFIX,ad.jp
+
+# 搜索引擎与门户
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,goo.ne.jp
+DOMAIN-SUFFIX,excite.co.jp
+DOMAIN-SUFFIX,infoseek.co.jp
+
+# 电商与购物
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,stores.jp
+DOMAIN-SUFFIX,shop-pro.jp
+
+# 社交媒体与视频
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,livedoor.jp
+DOMAIN-SUFFIX,hatena.ne.jp
+DOMAIN-SUFFIX,fc2.com
+
+# 新闻与媒体
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,yomiuri.co.jp
+DOMAIN-SUFFIX,mainichi.jp
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,japantimes.co.jp
+DOMAIN-SUFFIX,itmedia.co.jp
+DOMAIN-SUFFIX,prtimes.jp
+
+# 电信运营商
+DOMAIN-SUFFIX,docomo.ne.jp
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,nttdocomo.co.jp
+DOMAIN-SUFFIX,biglobe.ne.jp
+DOMAIN-SUFFIX,ocn.ne.jp
+DOMAIN-SUFFIX,so-net.ne.jp
+
+# 企业与交通
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,panasonic.jp
+DOMAIN-SUFFIX,ana.co.jp
+DOMAIN-SUFFIX,jal.co.jp
+DOMAIN-SUFFIX,jreast.co.jp
+
+# 生活服务
+DOMAIN-SUFFIX,gnavi.co.jp
+DOMAIN-SUFFIX,hotpepper.jp
+DOMAIN-SUFFIX,mynavi.jp
+
+# 博客与网络服务
+DOMAIN-SUFFIX,blog.jp
+DOMAIN-SUFFIX,exblog.jp
+DOMAIN-SUFFIX,jugem.jp
+DOMAIN-SUFFIX,sakura.ne.jp
+DOMAIN-SUFFIX,lolipop.jp
+
+# 电视台
+DOMAIN-SUFFIX,tbs.co.jp
+DOMAIN-SUFFIX,ntv.co.jp
+DOMAIN-SUFFIX,fujitv.co.jp
+DOMAIN-SUFFIX,tv-asahi.co.jp
+DOMAIN-SUFFIX,tv-tokyo.co.jp
+
+# 其他常用日本网站
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,2ch.net
