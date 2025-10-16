@@ -3,7 +3,7 @@
 ====
 # 自定义域名放在这里
 DOMAIN-SUFFIX,kakaku*
-
+DOMAIN-SUFFIX,kakaku.k-img.com
 
 # 域名后缀匹配（日本顶级域名）
 DOMAIN-SUFFIX,jp
