@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,ad.jp
 
 # 搜索引擎与门户
 DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,excite.co.jp
