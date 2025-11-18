@@ -11,7 +11,7 @@ DST-PORT,32100
 DOMAIN-SUFFIX,eurybia.us
 DOMAIN-SUFFIX,feiniuyun.xyz
 DOMAIN-KEYWORD,amazon
-DOMAIN-KEYWORD,refx
+# DOMAIN-KEYWORD,refx
 DOMAIN-KEYWORD,aiyifan
 DOMAIN-KEYWORD,duckduckgo.com
 DOMAIN-KEYWORD,docker.com
@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,ptskit.org
 
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
+
 
 
 
