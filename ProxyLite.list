@@ -26,11 +26,11 @@ DOMAIN-SUFFIX,raingfh.top
 # DOMAIN-SUFFIX,m-team.io
 # DOMAIN-SUFFIX,m-team.cc
 #ptzone站点
-DOMAIN-SUFFIX,ptzone.xyz
+#DOMAIN-SUFFIX,ptzone.xyz
 #铂金学院
-DOMAIN-SUFFIX,ptchina.org
+#DOMAIN-SUFFIX,ptchina.org
 #咖啡
-DOMAIN-SUFFIX,ptcafe.club
+#DOMAIN-SUFFIX,ptcafe.club
 #冰淇淋
 DOMAIN-SUFFIX,icc2022.com
 #学校
@@ -74,15 +74,16 @@ DOMAIN-SUFFIX,pt.eastgame.org
 #烧包
 DOMAIN-SUFFIX,ptsbao.club
 #蟹黄堡
-DOMAIN-SUFFIX,crabpt.vip
+#DOMAIN-SUFFIX,crabpt.vip
 #车站
-DOMAIN-SUFFIX,carpt.net
+#DOMAIN-SUFFIX,carpt.net
 
-DOMAIN-SUFFIX,ptskit.org
+#DOMAIN-SUFFIX,ptskit.org
 
 
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
+
 
 
 
