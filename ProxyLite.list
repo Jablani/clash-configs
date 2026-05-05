@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,fastlydns.net
 =======
 #wildberries
-DOMAIN-SUFFIX,wildberries
+DOMAIN-KEYWORD,wildberries
 
 DOMAIN-SUFFIX,eufylife.com
 DST-PORT,32100
