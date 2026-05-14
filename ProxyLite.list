@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,fastlydns.net
 #wildberries
 DOMAIN-KEYWORD,wildberries
 
+=====
+#AI生图
+DOMAIN-KEYWORD,vercel.app
+
 DOMAIN-SUFFIX,eufylife.com
 DST-PORT,32100
 DOMAIN-SUFFIX,eurybia.us
