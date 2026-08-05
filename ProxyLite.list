@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,fastlydns.net
 #AI生图
 DOMAIN-KEYWORD,vercel.app
 
+DOMAIN-KEYWORD,applications.wes.org
+
 DOMAIN-SUFFIX,eufylife.com
 DST-PORT,32100
 DOMAIN-SUFFIX,eurybia.us
