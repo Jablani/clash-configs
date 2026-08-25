@@ -13,13 +13,12 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,fastlydns.net
 =======
 #wildberries
-#DOMAIN-KEYWORD,wildberries
-#DOMAIN-SUFFIX,wb.ru
+DOMAIN-KEYWORD,wildberries
+DOMAIN-SUFFIX,wb.ru
 
 =====
 #AI生图
 DOMAIN-KEYWORD,vercel.app
-
 DOMAIN-KEYWORD,applications.wes.org
 
 DOMAIN-SUFFIX,eufylife.com
