@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,fastlydns.net
 =======
 #wildberries
-DOMAIN-KEYWORD,wildberries
-DOMAIN-SUFFIX,wb.ru
+#DOMAIN-KEYWORD,wildberries
+#DOMAIN-SUFFIX,wb.ru
 
 =====
 #AI生图
